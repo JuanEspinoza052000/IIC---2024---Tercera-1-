@@ -1,0 +1,27 @@
+/*codigo para eliminar cualquier estilo previo*/
+
+* {
+
+margin: 0;
+padding: 0;
+
+}
+
+.menu-izquierda {
+    background: rgb(246, 205, 155);
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.menu-izquierda img {
+width: 50;
+
+
+}
