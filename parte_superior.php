@@ -4,9 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="proyecto III gen I" content="Pagina de prueba">
-   
-   
-   
     <title>
         Tercera I
     </title>
@@ -15,17 +12,14 @@
 
 </head>
 
+
 <menu>
     <div class="menu-izquierda">
-        <img src="./images/menu.png" alt="">
-        <p class="texto_menu_izquierda">
-            la casa de bob
-
-        </p>
-
-
+        <a href="./index.php"> <img src="./imagenes/logo1.jpeg" alt=""></a>
     </div>
 
-
-
+    <div class="menu-derecha">
+        <a class="enlaces-menu-derecha" href="https:google.com">primer ingreso</a>
+        <a class="enlaces-menu-derecha" href="https:google.com">Aula En Linea</a>
+    </div>
 </menu>
