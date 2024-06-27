@@ -11,8 +11,16 @@
         <a href="./index.php"> <img src="./imagenes/main-img.jpeg" alt=""></a>
     </div>
 
+    <div class="main-accordion-container">
+
+    </div>
+
+
+
+
 
 </body>
+
 
 
 <?php require_once "./parte_inferior.php" ?>
